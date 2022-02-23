@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.serginhobb</groupId>
-	<artifactId>dscatalog</artifactId>
+	<artifactId>capitulo1exercicio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dscatalog</name>
-	<description>DSCatalog SerginhoBB</description>
+	<name>capitulo1exercicio</name>
+	<description>capitulo1exercicio SerginhoBB</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
